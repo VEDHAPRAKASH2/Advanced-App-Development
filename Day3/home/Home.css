@@ -1,0 +1,18 @@
+.home-section1 {
+    background-image: url("../../../assets/cart.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    height: 107svh;
+    color: white;
+}
+
+.home-section1 p {
+    font-size: 55px;
+    margin: 20px;
+}
+
+.home-section2 h1 {
+    height: 100svh;
+}
